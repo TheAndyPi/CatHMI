@@ -1,4 +1,4 @@
-# CatHMI
+# Cat Human-Machine Interface
 
 ### 🐾 Project Overview
 CatHMI is a specialized Android application I developed in 2022. It serves as the primary bridge—or Human-Machine Interface—between a user and an animatronic feline companion. This project was designed to facilitate seamless interaction, allowing users to control movements, triggers, or responses from the animatronic hardware via a mobile device.
